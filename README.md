@@ -106,3 +106,11 @@ stunting-knn/
 ├── app.py
 ├── requirements.txt
 └── README.md<img width="1600" height="845" alt="Dashboard stunting" src="https://github.com/user-attachments/assets/be762aca-0fb0-4f40-b8e8-ee4b551a5f86" />
+
+
+## 👤 Author
+
+**M. Maulud Syafrizal**
+
+Fresh Graduate — S1 Informatika
+Universitas Amikom Yogyakarta
