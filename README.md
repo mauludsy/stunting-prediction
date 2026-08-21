@@ -94,7 +94,7 @@ The trained KNN model is integrated into a single-page web interface. Users ente
 
 ## 📁 Project Structure
 
-```text
+
 stunting-knn/
 │
 ├── images/
@@ -106,6 +106,8 @@ stunting-knn/
 ├── app.py
 ├── requirements.txt
 └── README.md<img width="1600" height="845" alt="Dashboard stunting" src="https://github.com/user-attachments/assets/be762aca-0fb0-4f40-b8e8-ee4b551a5f86" />
+
+
 
 
 ## 👤 Author
