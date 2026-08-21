@@ -113,10 +113,15 @@ stunting-knn/
 
 
 
+---
+
 ## 👤 Author
 
 **M. Maulud Syafrizal**
 
 Fresh Graduate — S1 Informatika
 Universitas Amikom Yogyakarta
+
 **Interests:** Data Science, Machine Learning, Data Analysis
+
+---
